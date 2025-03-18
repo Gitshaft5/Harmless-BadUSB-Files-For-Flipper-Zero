@@ -8,7 +8,7 @@ ENTER
 DELAY 1500
 ALT d
 DELAY 1500
-STRING https://corgiorgy.com/
+STRING https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files
 ENTER
 DELAY 2000
 F11
